@@ -1,0 +1,20 @@
+A gem can be thought of as a library or plug-in, some functionality in a nice little package. 
+"Capybara" is an integration testing tool for rack based web applications. It simulates how a user would 
+interact with a website.
+"Launchy" helps launch cross-platform application with minimum effort. Sounds neat!
+"Rspec" is a tool for behaviour-driven development in Ruby.
+"Shotgun" restarts your application on every request.
+"Rack-test" is a simple testing API for rack apps.
+
+The minium requirements of an HTML-5 page are 
+1) a doctype declaration
+2) start of the page with html, also defining the language used
+3) head tag to start the title
+4) meta tag that secifies character encoding is correct
+5) title
+6) link to css or javascript to control page appearance
+7) end of header
+8) body
+
+Not entirely sure but thought assets are basically files. Seems there is an asset pipeline in Ruby to handle css, js and 
+images in a smart way. sure we´ll get there :) 
